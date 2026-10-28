@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1 {
+public class Page11_Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
